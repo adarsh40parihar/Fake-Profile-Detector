@@ -1,4 +1,4 @@
-# SIH-2023-14
+# SIH-2023
 Fake Social Media Profile detection and reporting
 
 ## Description
